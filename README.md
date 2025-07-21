@@ -1,2 +1,2 @@
-# Chinni_Kitchen
+# Monday2Friday
 Food website
